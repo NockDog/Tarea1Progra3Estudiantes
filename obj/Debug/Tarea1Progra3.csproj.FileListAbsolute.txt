@@ -1,0 +1,7 @@
+C:\Users\rtbri\desktop\Tarea\Tarea1Progra3\bin\Debug\Tarea1Progra3.exe.config
+C:\Users\rtbri\desktop\Tarea\Tarea1Progra3\bin\Debug\Tarea1Progra3.exe
+C:\Users\rtbri\desktop\Tarea\Tarea1Progra3\bin\Debug\Tarea1Progra3.pdb
+C:\Users\rtbri\desktop\Tarea\Tarea1Progra3\obj\Debug\Tarea1Progra3.csproj.AssemblyReference.cache
+C:\Users\rtbri\desktop\Tarea\Tarea1Progra3\obj\Debug\Tarea1Progra3.csproj.CoreCompileInputs.cache
+C:\Users\rtbri\desktop\Tarea\Tarea1Progra3\obj\Debug\Tarea1Progra3.exe
+C:\Users\rtbri\desktop\Tarea\Tarea1Progra3\obj\Debug\Tarea1Progra3.pdb
